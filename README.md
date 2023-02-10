@@ -1,5 +1,6 @@
 # MarcosLarraga
-# Perfil del estudiante de grado medio de informática
+# Perfil del estudiante de grado medio
+
 
 ## Acerca de mí
 Soy un estudiante apasionado por la tecnología y la informática. Actualmente estoy cursando mis estudios de grado medio en informática y me encanta aprender sobre nuevas tecnologías y cómo pueden ser aplicadas para resolver problemas cotidianos.
