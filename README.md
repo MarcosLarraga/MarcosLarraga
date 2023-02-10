@@ -1,4 +1,4 @@
-# MarcosLarraga04
+# MarcosLarraga
 # Perfil del estudiante de grado medio de informática
 
 ## Acerca de mí
