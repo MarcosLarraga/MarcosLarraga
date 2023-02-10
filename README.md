@@ -1,11 +1,11 @@
-#!HOLA¡ Soy MarcosLarraga👋
-# Perfil del estudiante de grado medio
+# !HOLA¡ Soy MarcosLarraga👋
+## Perfil del estudiante de grado medio
 
 
-## Acerca de mí
+### Acerca de mí
 Soy un estudiante apasionado por la tecnología y la informática. Actualmente estoy cursando mis estudios de grado medio en informática y me encanta aprender sobre nuevas tecnologías y cómo pueden ser aplicadas para resolver problemas cotidianos.
 
-## Habilidades
+### Habilidades
 - Mantenimiento de equipos: montaje ,desmontaje y limpieza
 - Microsoft Office Tools (Excel, Word, Access)
 - HTML y CSS: Conocimiento básico de creación y diseño de web
@@ -14,20 +14,20 @@ Soy un estudiante apasionado por la tecnología y la informática. Actualmente e
 - Instalación y configuración de Ubuntu y Windows
 - Conocimiento básico de Linux y Ubuntu Server creación de servidores 
 
-## Proyectos
+### Proyectos
 - AWS JAM | 2023
 - Olimpiada Aragonesa de informática | 2022/2023
 - Hackaton (nacional) | 2022
 - Hackaton (nacional) | 2021
 
-## Educación
+### Educación
 - Estudiante de segundo año de grado medio en Sistemas Microinformaticos y Redes Locales (Centro San Valero)
 
-## Intereses
+### Intereses
 - Participar en proyectos de tecnología y robótica
 - Aprender sobre nuevas tecnologías y cómo pueden ser aplicadas para mejorar la vida de las personas
 - Desarrollar habilidades en el diseño de interfaces de usuario y experiencia de usuario
 
-## Contacto
+### Contacto
 Si deseas contactar conmigo, puedes enviarme un correo electrónico a marcus10marcos@gmail.com. También puedes encontrarme en Instagram como maarkuus.04. 
 ¡Será un placer conectarte!
