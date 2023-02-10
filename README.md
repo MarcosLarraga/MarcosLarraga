@@ -20,7 +20,7 @@ Soy un estudiante apasionado por la tecnología y la informática. Actualmente e
 - Hackaton (nacional) | 2021
 
 ## Educación
-- Estudiante de segundo año de grado medio en Sistemas Microinformaticos y Redes Locales [Centro San Valero]
+- Estudiante de segundo año de grado medio en Sistemas Microinformaticos y Redes Locales (Centro San Valero)
 
 ## Intereses
 - Participar en proyectos de tecnología y robótica
@@ -28,5 +28,5 @@ Soy un estudiante apasionado por la tecnología y la informática. Actualmente e
 - Desarrollar habilidades en el diseño de interfaces de usuario y experiencia de usuario
 
 ## Contacto
-Si deseas contactar conmigo, puedes enviarme un correo electrónico a [marcus10marcos@gmail.com]. También puedes encontrarme en Instagram como maarkuus.04. 
+Si deseas contactar conmigo, puedes enviarme un correo electrónico a marcus10marcos@gmail.com. También puedes encontrarme en Instagram como maarkuus.04. 
 ¡Será un placer conectarte!
