@@ -15,7 +15,7 @@ Soy un estudiante apasionado por la tecnología y la informática. Actualmente e
 - Conocimiento básico de Linux y Ubuntu Server creación de servidores 
 
 ### Proyectos
-- AWS JAM | 2023
+- AWS JAM  | 2023
 - Olimpiada Aragonesa de informática | 2022/2023
 - Hackaton (nacional) | 2022
 - Hackaton (nacional) | 2021
@@ -24,7 +24,7 @@ Soy un estudiante apasionado por la tecnología y la informática. Actualmente e
 - Estudiante de segundo año de grado medio en Sistemas Microinformaticos y Redes Locales (Centro San Valero)
 
 ### Intereses
-- Participar en proyectos de tecnología y robótica
+- Montar un negocio via marketing digital
 - Aprender sobre nuevas tecnologías y cómo pueden ser aplicadas para mejorar la vida de las personas
 - Desarrollar habilidades en el diseño de interfaces de usuario y experiencia de usuario
 
